@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/service_client.dir/src/service_client.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/service_client.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/service_client.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/speed_cal2.dir/src/speed_cal2.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/speed_cal2.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/speed_cal2.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/publisher.dir/src/publisher.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/publisher.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/publisher.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/service_server.dir/src/service_server.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/service_server.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/service_server.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/speed_cal.dir/src/speed_cal.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/speed_cal.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/speed_cal.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/action_client.dir/src/action_client.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/action_client.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/action_client.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/turn_camera_service_server.dir/src/turn_camera_service_server.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/turn_camera_service_server.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/turn_camera_service_server.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/subscriber.dir/src/subscriber.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/subscriber.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/subscriber.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/rpm_pub.dir/src/rpm_pub.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/rpm_pub.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/rpm_pub.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/turn_camera_service_client.dir/src/turn_camera_service_client.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/turn_camera_service_client.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/turn_camera_service_client.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"udemy_cpp_pkg\\\" -I/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/action_server.dir/src/action_server.cpp.o -c /home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/action_server.cpp",
+  "file": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/src/action_server.cpp"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

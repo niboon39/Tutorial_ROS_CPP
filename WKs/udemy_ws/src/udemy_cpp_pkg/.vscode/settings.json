@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/niboon_b/WKs/udemy_ws/devel/lib/python2.7/dist-packages",
+        "/home/niboon_b/urdf_ws/devel/lib/python2.7/dist-packages",
+        "/home/niboon_b/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/niboon_b/WKs/udemy_ws/devel/lib/python2.7/dist-packages",
+        "/home/niboon_b/urdf_ws/devel/lib/python2.7/dist-packages",
+        "/home/niboon_b/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

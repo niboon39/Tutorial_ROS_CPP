@@ -1,0 +1,6 @@
+<launch>
+    <node name = "rpm_pub_node" pkg = "udemy_cpp_pkg" type = "rpm_pub" />
+    <!-- node name = "hello_world_pub_node" pkg = "udemy_cpp_pkg" type = "publisher"/ -->
+    <param name = "wheel_radius" type="double" value = "3.5" /> 
+    <node name = "speed_cal_node" pkg = "udemy_cpp_pkg" type = "speed_cal2" />
+</launch>

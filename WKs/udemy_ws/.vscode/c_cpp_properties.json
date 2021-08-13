@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/niboon_b/urdf_ws/devel/include/**",
+        "/home/niboon_b/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/ackermann_steering_controller/include/**",
+        "/home/niboon_b/catkin_ws/src/begin_ros/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/diff_drive_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/effort_controllers/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/force_torque_sensor_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/forward_command_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/four_wheel_steering_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/gripper_action_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/imu_sensor_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/joint_state_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/joint_trajectory_controller/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/position_controllers/include/**",
+        "/home/niboon_b/catkin_ws/src/rosserial/rosserial_server/include/**",
+        "/home/niboon_b/catkin_ws/src/rosserial/rosserial_test/include/**",
+        "/home/niboon_b/Test_turtlebot3/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/niboon_b/Test_turtlebot3/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/niboon_b/WKs/udemy_ws/src/udemy_cpp_pkg/include/**",
+        "/home/niboon_b/urdf_ws/src/urdf_geometry_parser/include/**",
+        "/home/niboon_b/urdf_ws/src/ros_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
